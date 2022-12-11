@@ -1,0 +1,6 @@
+{
+    "aws.experiments": {
+        "CodeWhisperer": true
+    },
+    "git.ignoreLimitWarning": true
+}
